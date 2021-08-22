@@ -7,11 +7,11 @@ assignees: danielcstock
 
 ---
 
-## Descrição
+## :writing_hand: Descrição
 
-## Link
+## :link: Link
 
-## Critério de aceite
+## :spiral_notepad:	Critério de aceite
 - [ ] Criação do documento
 - [ ] Conteúdo
 - [ ] Validação com a prof. Simone
